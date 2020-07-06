@@ -36,8 +36,8 @@ end
 
 def matrix_lookup(matrix, row, column)
   assembled_matrix= [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
-  assembled_matrix[1][1]
   sorted_matrix= [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
+  assembled_matrix[1][1]
   sorted_matrix[1][1]
 
   # Given any matrix (array of arrays), a row index and a column index,
